@@ -220,7 +220,7 @@ function create_config( )
     "Spam",
     "Xy"
     },
-    sudo_users = {162900190,177618046,tonumber(our_id)},--Sudo users
+    sudo_users = {147715308},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
